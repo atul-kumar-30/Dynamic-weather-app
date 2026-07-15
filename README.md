@@ -1,6 +1,6 @@
-# 🌤️ Dynamic Weather App
+# 🌤️ Skycast - Premium Weather App
 
-A beautiful, premium, and fully responsive weather application built with Vanilla HTML, CSS, and JavaScript. It uses the OpenWeatherMap API to deliver real-time weather data and 5-day forecasts.
+A beautiful, premium, and fully responsive dark-mode weather application built with Vanilla HTML, CSS, and JavaScript. It uses the OpenWeatherMap API to deliver real-time weather data and 5-day forecasts.
 
 ## ✨ Features
 

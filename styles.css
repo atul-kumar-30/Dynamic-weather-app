@@ -95,8 +95,26 @@ body.bg-thunderstorm .orb-3 { background: #4a00e0; }
 /* Top Controls & Toggle */
 .top-controls {
     display: flex;
-    justify-content: flex-end;
-    margin-bottom: 20px;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.app-title {
+    font-size: 1.4em;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: linear-gradient(to right, #fff, rgba(255,255,255,0.5));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.app-title i {
+    -webkit-text-fill-color: initial;
+    color: #fff;
+    font-size: 1.1em;
 }
 
 .unit-toggle {
